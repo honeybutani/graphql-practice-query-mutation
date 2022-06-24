@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Route, BrowserRouter as Routes } from "react-router-dom";
 import "./App.css";
 import Mission from "./components/Mission";
 import Missions from "./components/Missions";
